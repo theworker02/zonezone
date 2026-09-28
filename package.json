@@ -21,9 +21,10 @@
   "homepage": "https://theworker02.github.io/zonezone/",
   "keywords": [
     "zone",
-    "zone",
     "url",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
