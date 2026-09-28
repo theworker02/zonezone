@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/zonezone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zone URLs and zone query parts with stable normalization.",
+  "bin": {
+    "zonezone": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/zonezone.git"
+  },
+  "homepage": "https://theworker02.github.io/zonezone/",
+  "keywords": [
+    "zone",
+    "zone",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
